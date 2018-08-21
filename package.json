@@ -1,9 +1,9 @@
 {
-  "name": "react-big-calendar",
+  "name": "stockwell-calendar",
   "version": "0.19.2",
   "description": "Calendar! with events",
-  "author": "Jason Quense <monastic.panic@gmail.com>",
-  "repository": "intljusticemission/react-big-calendar",
+  "author": "Jiaoquan Chen <j_chen2010@hotmail.com>",
+  "repository": "https://github.com/JChen2010/stockwell-calendar",
   "license": "MIT",
   "main": "lib/index.js",
   "style": "lib/css/react-big-calendar.css",
